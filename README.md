@@ -5,6 +5,10 @@
 
 ## Changelog:
 
+0.0.18
+- making the directive compatible with `ngStrictDi` mode
+- allowing more recent versions of Moment.js
+
 0.0.17
 - updating model in `simple` mode fixed (not tangling with model anymore)
 
